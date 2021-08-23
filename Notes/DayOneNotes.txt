@@ -1,0 +1,136 @@
+
+Bhawna Gunwani Here,
+
+1. You need to make the session interactive.
+2. Need to join session on time.
+
+
+
+	Visual Studio Code
+	Node and NPM
+	Visual Studio 2019
+	SQL Server 2019
+	SQL Server Management Studio
+	
+-- To check if node is installed or not.	
+	
+	node --version
+
+-- To check if npm is installed or not.
+
+	npm --version
+	
+-- To check if visual studio code is installed or not:
+
+	code --version
+	
+-- To check if mongodb is installed or not:
+
+	mongo --version
+	
+-- To check if SQL Server is installed or not.
+	
+	Service Name : Microsoft SQL Server(MSSQLServer)
+
+-- To check if Microsoft Visual Studio 2019 installed or not:
+
+	visual studio 2019	
+	
+----------------------------------------------------
+
+	1. 20 minutes
+	
+	2. 15-15 minutes
+	
+----------------------------------------------------
+
+Phase One: 
+
+	1. Agile Scrum Methodology
+	2. GITHUB and GIT (Version Control System)
+	3. Programming with C#
+	4. Data Structure with C#
+	5. Design Patterns
+	
+----------------------------------------------------
+
+Software Development Life Cycle:
+
+	1. Gather the Requirements
+	2. Anaylyse the Requirement
+	3. Design
+	4. Coding
+	5. Testing
+	6. Maintenance
+	
+----------------------------------------------------
+
+Any SDLC, needs a documentation.
+This particular documentation is avoided agile process.
+
+Agile Process: 
+
+	A software deevelopment process where development and testing activities 
+	go parallelly and collaboratively hand in hand.
+	
+Agile Team: 
+
+	Where developers and testers who work together ie., known as Agile Team.
+	Developers + Testers + Product Managers.
+	
+Terminologies:
+
+	Epic, Feature, Story
+	
+	Epic: Large and High Level Reqquirement
+
+	Feature: We hve to derived Epic into smaller pieces i.e. Called Features.
+
+	Story: A smaller requirement to achieve.
+
+Business Analyst vs. Product Owner:
+
+Business Analyst: In Waterfall or other SDLC approaches, BA plays an important 
+role to gather and understand the requirement from client/Stakeholder/end-user.
+
+Product Owner: In Agile, we don't have business analyst. PO is responsible for 
+getting the requirement from client/Stakeholder/end-user.
+
+Roles in Agile:
+
+1. Product Owner: PO is responsible for getting requirements from client.
+
+2. Scrum Master: Fascilitator for an entire Agile Developement Team.
+
+3. Scrum Team: Developers + Testers who work for a goal to delive the product.
+
+Product Backlog: Prepared by Product Owner which contains requirements
+gathered from end-user or customer.
+
+Spring Backlog: Prepared after the Spring Planning Meeting joined by 
+Product Owner, Scum Master and Scrum Team.
+
+Sprint: An iteration in which certain activities or group of stories 
+needs to complete.
+
+Story Point: Estimation Given by the developers and Tester to complete
+a particular for a story.
+	
+-----------------------------------------------------------------
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
