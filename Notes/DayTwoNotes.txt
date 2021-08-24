@@ -1,0 +1,197 @@
+
+GIT and GITHUB
+
+	GIT != GITHUB
+	
+GITHUB: 
+
+	Email: codingbeam@gmail.com
+	username: codingbeam
+	Password: *****************
+	
+To check if git is installed or not:
+
+			git --version
+
+------------------------------------------
+
+GIT: A version Control System
+
+- A distributed VCS and Open Source.
+- To check/track changesin files and folders.
+- To collaborate in teams.
+
+Types of VCS:
+
+	1. Centralized VCS
+	2. Distributed VCS
+	
+-----------------------------------------
+
+GITHUB: 
+
+- A website to upload your local repositories to server.
+- This domain can be accessible from anywhere.
+- This helps to create private and public repositories.
+- Provides backup, Visual Inteface to your respoistories.
+- GITHUB makes your life easier when it comes for collaboration.
+
+GIT usages you shuld know to avoid:
+
+1. Not to cmmit directly to master branches.
+2. Do not commit the application secrets such as (.env .properties)
+3. Do not treat GIT as file storage.
+4. Do not work on multiple isuues in a single branches.
+5. Do not Ignore .gitignore
+6. Do not force push.
+7. Do not modify or delete commit histories.
+8. Do not rest a branch without committing or comparing changes.
+
+------------------------------------
+
+GIT COnfigurations:
+
+	git config --global user.email codingbeam@gmail.com
+	git config --global user.username codingbeam
+
+GIT Basic Commands:
+
+1. To initialize local respository: (For Very Fist Time)
+
+	E:\git-demo-project>
+	
+	git init
+
+2. To check the status of git local respository:
+
+	git status
+
+3. To track or add your files to tracked files for commit:
+
+	git add .
+
+4. To check the status of git local respository (tracked/untracked):
+
+	git status
+	
+5. To commit the tracked changes:
+
+	git commit -m "First Commit"
+	
+6. To add committed files to server repositories, add remote origin:
+	(For Very First Time)
+
+	git remote add origin https://github.com/codingbeam/git-demo-project.git
+	
+7. To add files to master branch:
+
+	git push -u origin master
+	
+-----------------------------------------------------------
+
+Branching and Merging:
+
+	a. What are branches?
+	b. How to create branch?
+	c. How to checkout to branch?
+	d. How to merge branch to master?
+	e. How to delete branch (locally or remotely)?
+
+1. Get the list of local branches:
+
+	git branch
+	
+2. To see remote branches:
+
+	git branch -r
+	
+3. To see all local and remote branches:
+
+	git branch -a
+	
+4. Create New Branch:
+
+	git branch MyFirstBranch
+	
+5. Checkout to MyFirstBranch:
+
+	git checkout MyFirstBranch:
+	
+6. Make changes to local repository and Commit to MyFirstBranch:
+
+	make sure to checkout to MyFirstBranch
+	add files and folders to local-repository
+	git status
+	git add .
+	git status
+	git commit -m "First Commit to MyFirstBranch"
+	git push -u origin MyFirstBranch
+
+---------------------------------------------------
+
+To Merge MyFirstBranch to master branch:
+
+1. Checkout to master branch:
+
+	git checkout master
+	
+2. Merge branch now:
+
+	git merge MyFirstBranch
+	
+3. Push changes to master branch:
+
+	git push -u origin master
+	
+Afteer Merge, you will get folloowing message:
+
+	This branch is even with master.
+
+----------------------------------------
+
+-- To delete branch from Local Repository
+
+	git branch -d MyFirstBranch
+	
+-- To delete branch from Remote Repository:
+
+	git push origin --delete MyNewBranch
+	
+-----------------------------------------
+
+	git clone https://github.com/codingbeam/git-demo-project.git
+	
+	git pull
+	
+-----------------------------------------
+
+Pull vs. Fetch from Remote Repository:
+
+When you do a git pull, behind the scenes git is doing 'get fetch' and 'git merge'.
+
+	git fetch
+	
+	git diiff master orgin/master
+	
+	git merge orgin/master
+
+------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
