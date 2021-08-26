@@ -1,0 +1,15 @@
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\bin\Debug\net5.0\CSharp_Advance_Concepts.exe
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\bin\Debug\net5.0\CSharp_Advance_Concepts.deps.json
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\bin\Debug\net5.0\CSharp_Advance_Concepts.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\bin\Debug\net5.0\CSharp_Advance_Concepts.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\bin\Debug\net5.0\CSharp_Advance_Concepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\bin\Debug\net5.0\ref\CSharp_Advance_Concepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\bin\Debug\net5.0\CSharp_Advance_Concepts.pdb
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\CSharp_Advance_Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\CSharp_Advance_Concepts.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\CSharp_Advance_Concepts.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\CSharp_Advance_Concepts.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\CSharp_Advance_Concepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\ref\CSharp_Advance_Concepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\CSharp_Advance_Concepts.pdb
+C:\Users\BhawnaGunwani\source\repos\DayThree-CSharp-Fundamentals\CSharp_Advance_Concepts\obj\Debug\net5.0\CSharp_Advance_Concepts.genruntimeconfig.cache

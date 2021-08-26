@@ -1,0 +1,15 @@
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\bin\Debug\net5.0\MarksClassLibrary.deps.json
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\bin\Debug\net5.0\MarksClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\bin\Debug\net5.0\ref\MarksClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\bin\Debug\net5.0\MarksClassLibrary.pdb
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\bin\Debug\net5.0\StudentClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\bin\Debug\net5.0\StudentClassLibrary.pdb
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.csproj.AssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.csproj.CopyComplete
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\ref\MarksClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\MarksClassLibrary\obj\Debug\net5.0\MarksClassLibrary.pdb

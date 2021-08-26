@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "StudentClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/StudentClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StudentClassLibrary/StudentClassLibrary.csproj",
+      "msbuildProject": "../StudentClassLibrary/StudentClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "StudentClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BhawnaGunwani\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\MarksClassLibrary\\MarksClassLibrary.csproj",
+      "projectName": "MarksClassLibrary",
+      "projectPath": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\MarksClassLibrary\\MarksClassLibrary.csproj",
+      "packagesPath": "C:\\Users\\BhawnaGunwani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\MarksClassLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\BhawnaGunwani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\StudentClassLibrary\\StudentClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\StudentClassLibrary\\StudentClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

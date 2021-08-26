@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MarksClassLibrary/1.0.0": {
+        "dependencies": {
+          "StudentClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MarksClassLibrary.dll": {}
+        }
+      },
+      "StudentClassLibrary/1.0.0": {
+        "runtime": {
+          "StudentClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarksClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

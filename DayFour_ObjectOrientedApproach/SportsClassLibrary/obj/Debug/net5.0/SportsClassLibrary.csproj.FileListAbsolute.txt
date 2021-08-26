@@ -1,0 +1,17 @@
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\SportsClassLibrary.deps.json
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\SportsClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\ref\SportsClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\SportsClassLibrary.pdb
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\MarksClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\StudentClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\MarksClassLibrary.pdb
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\bin\Debug\net5.0\StudentClassLibrary.pdb
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.csproj.AssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.csproj.CopyComplete
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\ref\SportsClassLibrary.dll
+C:\Users\BhawnaGunwani\source\repos\DayFour_ObjectOrientedApproach\SportsClassLibrary\obj\Debug\net5.0\SportsClassLibrary.pdb

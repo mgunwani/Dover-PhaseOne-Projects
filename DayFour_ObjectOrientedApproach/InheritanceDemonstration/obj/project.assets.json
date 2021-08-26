@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MarksClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "StudentClassLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MarksClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MarksClassLibrary.dll": {}
+        }
+      },
+      "ResultClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SportsClassLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ResultClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ResultClassLibrary.dll": {}
+        }
+      },
+      "SportsClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MarksClassLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SportsClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SportsClassLibrary.dll": {}
+        }
+      },
+      "StudentClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/StudentClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarksClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MarksClassLibrary/MarksClassLibrary.csproj",
+      "msbuildProject": "../MarksClassLibrary/MarksClassLibrary.csproj"
+    },
+    "ResultClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ResultClassLibrary/ResultClassLibrary.csproj",
+      "msbuildProject": "../ResultClassLibrary/ResultClassLibrary.csproj"
+    },
+    "SportsClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../SportsClassLibrary/SportsClassLibrary.csproj",
+      "msbuildProject": "../SportsClassLibrary/SportsClassLibrary.csproj"
+    },
+    "StudentClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StudentClassLibrary/StudentClassLibrary.csproj",
+      "msbuildProject": "../StudentClassLibrary/StudentClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ResultClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BhawnaGunwani\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\InheritanceDemonstration\\InheritanceDemonstration.csproj",
+      "projectName": "InheritanceDemonstration",
+      "projectPath": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\InheritanceDemonstration\\InheritanceDemonstration.csproj",
+      "packagesPath": "C:\\Users\\BhawnaGunwani\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\InheritanceDemonstration\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\BhawnaGunwani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\ResultClassLibrary\\ResultClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\BhawnaGunwani\\source\\repos\\DayFour_ObjectOrientedApproach\\ResultClassLibrary\\ResultClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

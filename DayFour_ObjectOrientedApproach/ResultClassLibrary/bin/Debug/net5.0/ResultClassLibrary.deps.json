@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ResultClassLibrary/1.0.0": {
+        "dependencies": {
+          "SportsClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ResultClassLibrary.dll": {}
+        }
+      },
+      "MarksClassLibrary/1.0.0": {
+        "dependencies": {
+          "StudentClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MarksClassLibrary.dll": {}
+        }
+      },
+      "SportsClassLibrary/1.0.0": {
+        "dependencies": {
+          "MarksClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SportsClassLibrary.dll": {}
+        }
+      },
+      "StudentClassLibrary/1.0.0": {
+        "runtime": {
+          "StudentClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ResultClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarksClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SportsClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,129 @@
+
+Object Oriented Programming with C#:
+
+Key Feature: Data Hiding
+
+Components of Object Oriented Programming:
+
+1. Class
+2. Object
+3. Encapsulation
+4. Abstraction
+5. Inheritance
+6. Polymorphism
+
+----------------------------------------------------
+
+Class: 
+
+	- A blueprint of a user-defined data type.
+	- A collection of data members and member functions.
+	- In other words, A class is collection of attributes and methods.
+	- Data Members are variables declared at class level.
+	- Member functions are the methods declared at class level.
+	- Each and Every class is by default inherited with `Object` class.
+	- Object class has a special method called constructor to initialize the data members with default values.
+	
+Object:
+
+	- Creating an Object means creating a reference variable of a class.
+	- Object is a representator of a class.
+	- Allows us to access the members of a class.
+	- When we create an object of a class, the memory gets allocated to the data members of a class and member functions gets memory when they are invoked.
+	
+	Student student1 = new Student();
+	
+	// Creating a reference variable
+	Student student1;
+	// Creating an object or allocating memory to DMs.
+	new Student();
+	
+------------------------------------------------------
+
+Constructor:
+
+	- A special Method that is used to initalized the data members.
+	- Constructor's name is same as that of the class name.
+	- Constructor doesn't have any return type.
+	- Constructor is invoked implicitly by the compiler.
+
+------------------------------------------------------
+
+Acccess Modifiers:
+
+	- They are used to specify the scope of accessibility of the members of a class or type of the class.
+	
+	- Types of Access Modifiers:
+	
+	1. private: 
+	
+		This is the default access modifier for members of a class.
+		Access is limited within the class definition.
+		
+	2. public
+	
+		There are no restrictions on accessing public members.
+		They can be accessed within the class, outside class or outside the namespace also.
+	
+	3. protected
+	
+		Access is limited to within the class oand sub classes at the time of inheritance.
+		
+	4. internal
+	
+		Access is limited to the class and within the current assembly.
+	
+	5. protected internal
+	6. private protected
+	
+------------------------------------------------------
+
+Inheritance:
+
+	A process in which a sub class inherits the super class for reusablity of code and helps in reducing time and efforts of a programmer.
+	
+	When we inherit a class into a child class, we create an object of child class to access all the behaviours and methods.
+	
+	When we create an object of child class, memory gets allocated to the data members of a child class as well as parent class.
+	
+	Advantages:	
+	
+	1. Code Resuability
+	2. Reducing Time and Efforts 
+
+	Types of Inheritance:
+	
+	1. Single Inheritance
+	2. Multi-Level Inheritance
+	3. Hierarchical Inheritance
+	
+	Note: Below Types of inheritance can be achieved using Interfaces.
+	
+	1. Multiple Inheritance
+	2. Hybrid Inheritance
+
+	Parent Class/Super Class/Base Class
+	Child Class/Sub Class/Derived Class
+
+------------------------------------------------------
+
+Naming Conventions:
+
+	Camel Case - abcAbc - studentName
+	Pascal Case - AbcAbc - StudentName
+	Screaming Case - ABC - STUDENTNAME
+	Lazy Case - abcabc - studentname
+	Kebab Case - abc-abc - student-name
+	Snake Case - abc_abc - student_name
+	
+-------------------------------------------------------
+
+
+
+
+
+
+
+
+
+	Console.WriteLine("{0} : {1} : {2}", student1.id, student1.name, student1.age);
