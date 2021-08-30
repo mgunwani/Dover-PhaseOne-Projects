@@ -1,0 +1,102 @@
+
+.NET Framework vs. .Net Core:
+
+Programming with C#:
+
+C - printf and scanf (Header Files: #include<stdio.h>)
+C++ - cout and cin (Header File: #include<iostream.h>)
+	
+Input/Output:
+
+Namespace(System) -> Class(Console) -> Methods (ReadLine, Read, WriteLine, Write)
+
+Namespace -> Class -> Methods and Properties.
+
+Namespace is a collection of classes, interfaces, delegates, enums and so on.
+Class is a collection of data members(properties) and member functions (Methods)
+Properties or Data Members are the variables declared at class level.
+Methods or Member Functions are methods declared at class level.
+
+Data Types:
+
+1. Value Types:
+
+	Simple Data Types (Integral, Floating-Point, Char, Boolean)
+	Enum Types
+	Struct Types
+	Nullable Types
+	
+2. Reference Types:
+
+	Class Types
+	Interface Types
+	Array Types
+	Delegate Types
+	
+-------------------------------------------------------
+
+Type Casting:
+
+Type Casting or Type Conversion is a mechanism to convert one data type to another one. Type Conversion is generally used when we do input or output operations. But Type Casting gets implicited in case of calculations.
+
+1. Implicit Type Casting
+
+	It is done by compiler automatically and there no data loss chances.
+	It includes conversion of a smaller data type into the larger data type.
+	This is also known as type-safe-conversion.
+
+2. Explicit Type Casting
+
+	It is done by developer based upon the storage type of variable.
+	It includes conversion of a larger data type into the smaller data type.
+	It is un-safe type conversion.
+	
+------------------------------------------------------------------------
+
+Conditional Constructs:
+
+	Simple If Statement
+	If..Else Statement
+	If..Else If..Else Statement
+	Nested If..Else Statement
+	Switch Statement
+
+Looping Constructs:
+
+	For Loop
+	While Loop
+	Do..While Loop
+	Enhanced ForEach Loop
+
+Non-Conditional Constructs:
+
+	Break
+	Continue
+	GoTo
+	Comments
+
+----------------------------------------------------------------
+
+Arrays in C#:
+
+	1. Single Dimension Array
+	2. Multi Dimension Array
+	3. Jagged Array
+	
+	Jagged Array is also known as Array of Arrays.
+	
+	1,2,3,4,5,6
+	
+	1,2,3
+	4,5,6
+	
+	1,2,3,4,5
+	1,2,3
+	1,2,3,4,5,6,7
+	
+------------------------------------------------------------------
+
+
+
+
+

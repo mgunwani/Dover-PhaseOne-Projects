@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedConcepts", "ObjectOrientedConcepts\ObjectOrientedConcepts.csproj", "{637DC291-7D26-4849-A926-B9678FDA78DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedAdvancedConcepts", "ObjectOrientedAdvancedConcepts\ObjectOrientedAdvancedConcepts.csproj", "{D14B1B91-9533-4348-85E9-3BAD0EFB5F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{637DC291-7D26-4849-A926-B9678FDA78DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637DC291-7D26-4849-A926-B9678FDA78DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637DC291-7D26-4849-A926-B9678FDA78DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637DC291-7D26-4849-A926-B9678FDA78DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14B1B91-9533-4348-85E9-3BAD0EFB5F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14B1B91-9533-4348-85E9-3BAD0EFB5F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14B1B91-9533-4348-85E9-3BAD0EFB5F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14B1B91-9533-4348-85E9-3BAD0EFB5F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF31AC36-16C7-4A1F-9773-91388D4D66CA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,122 @@
+
+Components:
+
+	Classes
+	Objects
+	Encapsulation
+	Abstraction
+	Inheritance
+	Polymorphism
+	
+----------------------------------------
+
+Constructor Types
+Constructor Chaining
+Polymorphism
+
+----------------------------------------
+
+Constructor:
+
+	- A special Method that is used to initalized the data members.
+	- Constructor's name is same as that of the class name.
+	- Constructor doesn't have any return type.
+	- Constructor is invoked implicitly by the compiler.
+	
+Constructor Types:
+
+	1. Default or Parameterless Constructor
+	2. Parameterized Constructor
+	3. Copy Constructor
+	4. Static Constructor
+	5. Private Constructor
+	
+------------------------------------------
+
+Static Constructor:
+
+	- Used to Initialize static data members.
+	- It is called automatically before the first instance of a class is created.
+	- does'nt take access modifiers.
+	- They don't have parameters.
+	- A class can have both instance and static constructor without parameters.
+	- A static constructor cannot be called directly.
+
+-------------------------------------------
+
+Private Constructor:
+
+	If we will have only a private constructor, then we cannot create instance of that class and cannot be inherited from that.
+
+-------------------------------------------
+
+Polymorphism:
+
+	Here, `poly` means Many and `morpho` means Forms.
+	
+	Thus, One interface multiple functions.
+	
+	Example, Human, Eclipse, Visual Studio and so on.
+	
+Types of Polymorphism:
+
+	Static Polymorphism/Compile-Time Polymorphism/Overloading
+	Dynamic Polymorphism/Run-Time Polymorphism/Overriding
+	
+Overloading:
+
+	Having Different methods with same name but different function signatures.
+	We can either use constructor overloading or method overloading.
+	
+	1. Numbers of Parameters
+	public void addition(int num1, int num2)
+	public void addition(int num1, int num2, int num3)
+	
+	2. Type of Parameters
+	public void addition(int num1, int num2)
+	public void addition(float num1, float num2)
+	
+	3. Sequence of Parameters
+	public void addition(int num1, float num2)
+	public void addition(float num1, int num2)
+	
+Overriding:
+
+	Overriding can be done in derived class.
+	An override method provides a new implementation of a method inherited from parent class.
+	
+	We cannot override, static or non-virtual.
+	
+	Overriding can be achieved by abstract classes and Interfaces.
+	
+-----------------------------------------
+
+Abstract Class:
+
+	1. Abstract class can contain abstract and non abstract methods both.
+	2. An Abstract class cannot be instantiated.
+	3. An Abstract class cannot have it implementation.
+	4. An abstract method can only be declared in abstract class.
+	5. A class cannnot inherit from multiple abstract classes.
+	6. All child classes must implmenet all the abstract methods in it.
+	
+------------------------------------------
+
+Implement below functionality with abstract classes and Interfaces:
+
+In a Bank Account, there are many types of account such as Saving Account, Current Account, Loan Account and so on. Here, you need to add functionality for saving and current account.
+
+Default Functionalities: Deposit, Withdraw and Balance.
+
+Roles: 
+
+1. We cannot withdraw more than a limit per day.
+2. No Limit for current account.
+
+-----------------------------------------
+
+
+
+
+
+

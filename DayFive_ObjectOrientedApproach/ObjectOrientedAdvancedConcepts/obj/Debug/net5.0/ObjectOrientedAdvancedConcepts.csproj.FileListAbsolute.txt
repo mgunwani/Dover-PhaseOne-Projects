@@ -1,0 +1,16 @@
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\bin\Debug\net5.0\ObjectOrientedAdvancedConcepts.exe
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\bin\Debug\net5.0\ObjectOrientedAdvancedConcepts.deps.json
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\bin\Debug\net5.0\ObjectOrientedAdvancedConcepts.runtimeconfig.json
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\bin\Debug\net5.0\ObjectOrientedAdvancedConcepts.runtimeconfig.dev.json
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\bin\Debug\net5.0\ObjectOrientedAdvancedConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\bin\Debug\net5.0\ref\ObjectOrientedAdvancedConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\bin\Debug\net5.0\ObjectOrientedAdvancedConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.csproj.AssemblyReference.cache
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.AssemblyInfoInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.AssemblyInfo.cs
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.csproj.CoreCompileInputs.cache
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ref\ObjectOrientedAdvancedConcepts.dll
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.pdb
+C:\Users\BhawnaGunwani\source\repos\DayFive_ObjectOrientedApproach\ObjectOrientedAdvancedConcepts\obj\Debug\net5.0\ObjectOrientedAdvancedConcepts.genruntimeconfig.cache
